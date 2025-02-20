@@ -9,7 +9,7 @@
 
 #define DHTTYPE DHT22  // DHT11 or DHT22
 DHT dht(DHTPIN, DHTTYPE);
-
+#3years later
 // WiFi/ internet
 const char* ssid = "Emmie";                 // Your personal network SSID
 const char* wifi_password = "EMERANCE"; // Your personal network password
